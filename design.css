@@ -1,0 +1,205 @@
+*{
+    margin:0;
+    padding: 0;
+    font-family: calibri;
+}
+ul{
+    border:1px solid;
+    width:180px;
+}
+ul li {
+    height:92px;
+    float:bottom;
+    list-style: none;
+    text-align: center;
+    line-height: 30px;
+}
+.box-log{
+    width: 350px;
+    border:1px solid rgb(1, 4, 202);
+    margin:13% auto;
+    height: 235px;
+}
+.box-trans{
+    background: #fff;
+    width: 380px;
+    border:1px solid rgb(1, 4, 202);
+    margin:3% auto;
+    height: 450px;
+}
+.tittle{
+    background: rgb(1, 4, 202);
+    color:#fff;
+    text-align: center;
+    font-size: 20px;
+    padding: 10px;
+}
+.submit{
+    padding: 8px 10px;
+    background: rgb(1, 4, 202);
+    color: #fff;
+    border: 1px solid #fff;
+    border-radius: 2px;
+}
+.kanan{
+    float: left; 
+    margin-left: 153px; 
+    margin-top: 30px;
+}
+.username{
+    float: left; 
+    margin-left: 105px; 
+    margin-top: 30px;
+}
+.pass{
+    float: left; 
+    margin-left: 105px; 
+    margin-top: 10px;
+}
+.logout{
+    float: right; 
+    margin-right: 5px; 
+    margin-top: 5px;
+}
+.rew{
+    float: left; 
+    margin-left: 140px; 
+    margin-top: 10px;
+}
+.kembali{
+        float: left; 
+        margin-left: 5px; 
+        margin-top: 5px;
+}
+.ton{
+    padding: 16px 53px;
+    background: rgb(1, 4, 202);
+    color: #fff;
+    border: 1px solid #fff;
+    border-radius: 2px;
+    width: 166px;
+    margin:3% auto;
+    cursor: pointer;
+}
+.alert{
+    float: left;
+    margin-top: 10px;
+    margin-left: 70px;
+}
+.box-reg{
+    width: 335px;
+    border:1px solid rgb(1, 4, 202);
+    margin:10% auto;
+    height: 315px;
+}
+.input{
+    widows: 200px;
+    height: 30px;
+    border: 1px solid #d9d9d9;
+}
+.box-data{
+    width: 800px;
+    margin:4% auto;
+    height: 550px;
+    
+    
+}
+.tabel{
+    margin: auto;
+    width: 100%;
+    border:1px solid rgb(1, 4, 202);
+    background: #fff;
+}
+.tabel th{
+    padding: 8px;
+    color: #fff;
+    background: rgb(1, 4, 202);
+    
+}
+.tabel td{
+    padding: 4px;
+    border-bottom: 1px solid #000;
+}
+.tengah{
+    margin-left: 120px;
+}
+.box-esiswa{
+    background: #fff;
+    width: 380px;
+    border:1px solid rgb(1, 4, 202);
+    margin:5% auto;
+    height: 500px;
+}
+.box-tsiswa{
+    background: #fff;
+    width: 380px;
+    border:1px solid rgb(1, 4, 202);
+    margin:3% auto;
+    height: 550px;
+}
+.box-tguru{
+    background: #fff;
+    width: 380px;
+    border:1px solid rgb(1, 4, 202);
+    margin:4% auto;
+    height: 480px;
+}
+.box-eguru{
+    background: #fff;
+    width: 380px;
+    border:1px solid rgb(1, 4, 202);
+    margin:7% auto;
+    height: 420px;
+}
+.box-tkelas{
+    background: #fff;
+    width: 380px;
+    border:1px solid rgb(1, 4, 202);
+    margin:10% auto;
+    height: 300px;
+}
+.box-ekelas{
+    background: #fff;
+    width: 380px;
+    border:1px solid rgb(1, 4, 202);
+    margin:12% auto;
+    height: 250px;
+}
+.box-tspp{
+    background: #fff;
+    width: 380px;
+    border:1px solid rgb(1, 4, 202);
+    margin:6% auto;
+    height: 450px;
+}
+.box-espp{
+    background: #fff;
+    width: 380px;
+    border:1px solid rgb(1, 4, 202);
+    margin:7% auto;
+    height: 420px;
+}
+.box-history{
+    width: 95%;
+    margin:5% auto;
+    height: 550px;
+}
+.box-cetak{
+    width: 60%;
+    border:1px solid rgb(1, 4, 202);
+    margin:5% auto;
+    height: 380px;
+}
+.cetak{
+    margin: auto;
+    width: 80%;
+    margin-left: 100px;
+}
+.cetak th{
+    padding: 8px;
+    color: #fff;
+    
+}
+.cetak td{
+    padding: 10px;
+}
